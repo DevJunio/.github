@@ -1,2 +1,2 @@
 
-  ![Shell history](https://api.atuin.sh/img/devjunio.png?token=ae94e81da37662450dd6b2827979130a1d69cf23)
+![Shell History](https://github.com/DevJunio/devjunio/assets/53125029/c96fe273-5792-462d-8b85-49147b68aaaf)
